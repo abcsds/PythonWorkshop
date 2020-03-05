@@ -1,5 +1,6 @@
 # Python Workshop
 
+Presentation link: https://docs.google.com/presentation/d/1aJ9vdU5r3QaF4XkXxCLZhwzt2g1jsZHT2i-2z9UWHNs
 
 # Tasks
  1. Open a binary file on a text editor
@@ -34,7 +35,6 @@
  10. Functions:
   - Define a function for the power of 1.5
   - Define a function that replaces spaces in a file name for underscores
-  - Define a function you use in science (FFT?, SpearmanR?)
 
 
 # References
